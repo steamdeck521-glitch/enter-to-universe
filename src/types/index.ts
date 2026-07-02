@@ -1,5 +1,5 @@
 // src/types/index.ts
-// Global TypeScript type definitions
+// TypeScript type definitions
 
 export type UserRole = 'ADMIN' | 'TEACHER' | 'STUDENT';
 
